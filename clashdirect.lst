@@ -1,0 +1,25 @@
+# NAME: clashdirect.lst
+# AUTHOR: Vitosamin
+# REPO: https://github.com/vitosamin
+payload:
+  - DOMAIN-SUFFIX,team.ga,DIRECT
+  - DOMAIN-SUFFIX,tv.team,DIRECT
+  - DOMAIN-SUFFIX,3gppnetwork.org,DIRECT
+  - DOMAIN-SUFFIX,mts.ru,DIRECT
+  - DOMAIN-SUFFIX,megafon.ru,DIRECT
+  - DOMAIN-SUFFIX,play.google.com,DIRECT
+  - DOMAIN-SUFFIX,android.com,DIRECT
+  - DOMAIN-SUFFIX,google-analytics.com,DIRECT
+  - DOMAIN-SUFFIX,googleusercontent.com,DIRECT
+  - DOMAIN-SUFFIX,gstatic.com,DIRECT
+  - DOMAIN-SUFFIX,gvt1.com,DIRECT
+  - DOMAIN-SUFFIX,ggpht.com,DIRECT
+  - DOMAIN-SUFFIX,dl.google.com,DIRECT
+  - DOMAIN-SUFFIX,dl-ssl.google.com,DIRECT
+  - DOMAIN-SUFFIX,android.clients.google.com,DIRECT
+  - DOMAIN-SUFFIX,gvt2.com,DIRECT
+  - DOMAIN-SUFFIX,gvt3.com,DIRECT
+  - DOMAIN-SUFFIX,anydesk.com,DIRECT
+  - DOMAIN-SUFFIX,anydesk.net,DIRECT
+  - DOMAIN-SUFFIX,log.anydesk.com,DIRECT
+  - DOMAIN-SUFFIX,relay.anydesk.com,DIRECT
