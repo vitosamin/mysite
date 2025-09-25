@@ -1,6 +1,6 @@
 # NAME: Mylist
 # AUTHOR: vitosamin
-# REPO: https://github.com/blackmatrix7/ios_rule_script\
+# REPO: https://github.com/vitosamin
 payload:
   - DOMAIN-SUFFIX,2ip.ru
   - DOMAIN-SUFFIX,easylist-downloads.adblockplus.org
