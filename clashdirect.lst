@@ -1,5 +1,5 @@
 # NAME: clashdirect.lst
-# AUTHOR: Vitosamin
+# AUTHOR: Vitosamin GGG
 # REPO: https://github.com/vitosamin
 payload:
   - DOMAIN-SUFFIX,team.ga,DIRECT
