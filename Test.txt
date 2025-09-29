@@ -13,5 +13,6 @@ flibusta.is
 nnmclub.to
 rutracker.net
 bitru.org
+sweb.ru
 
 
